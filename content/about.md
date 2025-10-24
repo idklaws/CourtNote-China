@@ -39,5 +39,5 @@ title = 'About'
 ## 联系我们
 - 技术支持：support@courtnote.app
 - 商务合作：business@courtnote.app
-- 建议反馈：contact@courtnote.com
+- 建议反馈：contact@courtnote.app
 
