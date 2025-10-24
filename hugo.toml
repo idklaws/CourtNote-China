@@ -1,6 +1,6 @@
 baseURL = 'https://courtnote.cn/'
 languageCode = 'zh-cn'
-title = '庭记中文版'
+title = '庭记'
 theme = 'hugo-PaperMod'
 
 # 其他基本信息
@@ -14,26 +14,26 @@ theme = 'hugo-PaperMod'
     weight = 1
 
 [[menu.main]]
-    name = "庭记简介"
+    name = "简介"
     url = "/courtnote/" # 对应你创建的目录
     weight = 2
 
 [[menu.main]]
-    name = "关于我们"
+    name = "关于"
     url = "/about/"
     weight = 3
 
 [[menu.main]]
-    name = "联系我们"
+    name = "联系"
     url = "/contact/"
     weight = 4
 
 
 [params]
     description = "庭记的官方网站，展示我们最新的创新产品和解决方案。" # 网站的整体描述
-    keywords = ["庭记", "诉讼律师好帮手", "笔录照片转PDF", "技术", "创新"] # 网站的关键词
+    keywords = ["庭记", "诉讼律师工具","开庭日程管理", "笔录照片转PDF", "技术","扫描", "创新"] # 网站的关键词
 
      [params.homeInfoParams]
         # 首页顶部信息，可以写产品口号或简介
-        Title = "欢迎来到庭记的主页！"
-        Content = "我们致力于提供优质的诉讼律师一站式解决方案，助力诉讼律师不错过每一个庭审，高效生产笔录、证据文件。"
+        Title = "庭记 — 法律人的日程与扫描助手"
+        Content = "我们致力于提供优质的诉讼律师一站式解决方案，助力诉讼律师不错过每一个庭审，高效扫描笔录、证据文件。"
