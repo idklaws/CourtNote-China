@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>庭记 — 法律人的日程与扫描助手 on 庭记</title>
-    <link>https://courtnote.cn/</link>
+    <link>https://idklaws.github.io/CourtNote-China/</link>
     <description>Recent content in 庭记 — 法律人的日程与扫描助手 on 庭记</description>
     <generator>Hugo -- 0.152.1</generator>
     <language>zh-cn</language>
     <copyright>2025 庭记. All Rights Reserved.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:49:39 +0800</lastBuildDate>
-    <atom:link href="https://courtnote.cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://idklaws.github.io/CourtNote-China/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://courtnote.cn/about/</link>
+      <link>https://idklaws.github.io/CourtNote-China/about/</link>
       <pubDate>Fri, 24 Oct 2025 17:49:39 +0800</pubDate>
-      <guid>https://courtnote.cn/about/</guid>
+      <guid>https://idklaws.github.io/CourtNote-China/about/</guid>
       <description>&lt;h2 id=&#34;关于庭记courtnote&#34;&gt;关于庭记（CourtNote）&lt;/h2&gt;
 &lt;p&gt;庭记是一款为律师、法务等法律从业人员打造的专业工具，集庭审日程管理与文档扫描于一体。通过 AI 边界检测、透视校正与阴影处理，快速生成高质量 PDF；配合苹果日历风格的日程提醒与“案号自动填写”，显著提升办案效率。&lt;/p&gt;
 &lt;hr&gt;
@@ -53,9 +53,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://courtnote.cn/courtnote/</link>
+      <link>https://idklaws.github.io/CourtNote-China/courtnote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://courtnote.cn/courtnote/</guid>
+      <guid>https://idklaws.github.io/CourtNote-China/courtnote/</guid>
       <description>&lt;h2 id=&#34;关于庭记&#34;&gt;关于庭记&lt;/h2&gt;
 &lt;p&gt;庭记（CourtNote）是一款为律师、法务等法律从业人员打造的专业工具，集庭审日程管理与文档扫描成一体，帮助你高效安排工作、生成高质量 PDF。&lt;/p&gt;
 &lt;h3 id=&#34;核心功能一庭审日程管理&#34;&gt;核心功能一：庭审日程管理&lt;/h3&gt;

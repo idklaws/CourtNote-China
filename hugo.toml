@@ -1,7 +1,12 @@
-baseURL = 'https://courtnote.cn/'
+baseURL = 'https://idklaws.github.io/CourtNote-China/'
 languageCode = 'zh-cn'
 title = '庭记'
 theme = 'hugo-PaperMod'
+
+
+# 推荐添加的配置
+relativeURLs = true
+canonifyURLs = true
 
 # 其他基本信息
  copyright = "© 2025 庭记. All Rights Reserved."
