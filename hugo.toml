@@ -5,8 +5,8 @@ theme = 'hugo-PaperMod'
 
 
 # 推荐添加的配置
-relativeURLs = true
-canonifyURLs = true
+relativeURLs = false
+canonifyURLs = false
 
 # 其他基本信息
  copyright = "© 2025 庭记. All Rights Reserved."
