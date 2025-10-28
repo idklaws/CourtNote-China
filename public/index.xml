@@ -147,26 +147,52 @@
       <link>https://idklaws.github.io/CourtNote-China/terms/</link>
       <pubDate>Fri, 24 Oct 2025 17:49:39 +0800</pubDate>
       <guid>https://idklaws.github.io/CourtNote-China/terms/</guid>
-      <description>&lt;p&gt;用户协议（服务条款）
-版本：1.0  生效日期：2025-10-20&lt;/p&gt;
-&lt;p&gt;​    欢迎使用 庭记（CourtNote）（以下简称“本应用”）。在使用本应用前，请仔细阅读并同意本《用户协议》。如您不同意本协议任一条款，请停止使用。&lt;/p&gt;
-&lt;p&gt;​    一、适用范围
-​    本协议适用于 庭记（CourtNote）iOS 客户端。适用法律为中华人民共和国法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时参考 GDPR 要求。&lt;/p&gt;
-&lt;p&gt;​    二、功能与权限说明
-​    1. 功能范围：文档拍摄与校正、PDF 生成、案件管理、日程管理、本地存储；可选 iCloud 同步“仅用于日程”（文档不同步）。&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;2. 权限用途：
-
-  - 相机：用于拍摄文档影像。
-  - 相册读取/写入：用于从相册选取或在您选择时保存生成的图片/文档。
-  - 日历：在您授权后，用于读取/写入开庭与出差等日程。
-3. 数据同步：当前版本仅支持“日程数据”在您主动开启后通过 Apple iCloud/CloudKit 在设备间同步；“文档（扫描图片、PDF）与案件信息”默认仅保存在本地，不经由 iCloud/第三方服务器自动同步。
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;​    三、账户与同步
-​    1. 本应用不提供独立注册账号。iCloud 同步依赖您的 Apple ID 与 Apple CloudKit，您可随时在设置中关闭。
-​    2. 关闭 iCloud 后，新的日程将不再写入云端；既有 iCloud 数据的保留与删除以 Apple 服务规则为准。&lt;/p&gt;
-&lt;p&gt;​    四、会员与水印策略
-​    1. 会员与订阅：提供月度/年度/终身等方案，通过 Apple App Store 结算与管理；可在“系统设置-Apple ID-订阅”中管理及取消自动续订。
-​    2. 水印策略：免费用户每月在超额阈值后，分享导出的 PDF 会添加右下角轻量文字水印（注解层，打印常不显示）；会员用户与额度内分享不加水印。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;用户协议服务条款&#34;&gt;用户协议（服务条款）&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;版本：1.0 生效日期：2025-10-20&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;欢迎使用 &lt;strong&gt;庭记（CourtNote）&lt;/strong&gt;（以下简称“本应用”）。在使用本应用前，请仔细阅读并同意本《用户协议》。如您不同意本协议任一条款，请停止使用。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一适用范围&#34;&gt;一、适用范围&lt;/h2&gt;
+&lt;p&gt;本协议适用于 庭记（CourtNote）iOS 客户端。适用法律为中华人民共和国法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时参考 GDPR 要求。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;二功能与权限说明&#34;&gt;二、功能与权限说明&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 功能范围：&lt;/strong&gt;&lt;br&gt;
+文档拍摄与校正、PDF 生成、案件管理、日程管理、本地存储；可选 iCloud 同步“仅用于日程”（文档不同步）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 权限用途：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;相机：&lt;/strong&gt; 用于拍摄文档影像。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;相册读取/写入：&lt;/strong&gt; 用于从相册选取或在您选择时保存生成的图片/文档。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日历：&lt;/strong&gt; 在您授权后，用于读取/写入开庭与出差等日程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. 数据同步：&lt;/strong&gt;&lt;br&gt;
+当前版本仅支持“日程数据”在您主动开启后通过 Apple iCloud/CloudKit 在设备间同步；&lt;br&gt;
+“文档（扫描图片、PDF）与案件信息”默认仅保存在本地，不经由 iCloud/第三方服务器自动同步。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;三账户与同步&#34;&gt;三、账户与同步&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本应用不提供独立注册账号。iCloud 同步依赖您的 Apple ID 与 Apple CloudKit，您可随时在设置中关闭。&lt;/li&gt;
+&lt;li&gt;关闭 iCloud 后，新的日程将不再写入云端；既有 iCloud 数据的保留与删除以 Apple 服务规则为准。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;四会员与水印策略&#34;&gt;四、会员与水印策略&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;会员与订阅：&lt;/strong&gt; 提供月度/年度/终身等方案，通过 Apple App Store 结算与管理；可在“系统设置 - Apple ID - 订阅”中管理及取消自动续订。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;水印策略：&lt;/strong&gt; 免费用户每月在超额阈值后，分享导出的 PDF 会添加右下角轻量文字水印（注解层，打印常不显示）；会员用户与额度内分享不加水印。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;五用户内容与合规使用&#34;&gt;五、用户内容与合规使用&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;您在本应用中创建/导入的文档、案件、日程等内容的权利归您或相应权利人所有。&lt;/li&gt;
+&lt;li&gt;您承诺不利用本应用从事违法违规、侵权或破坏安全机制的行为。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;六知识产权&#34;&gt;六、知识产权&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本应用之软件及界面等由开发者依法享有相应权利；开源组件（如 OpenCV，Apache-2.0）依其许可使用并在“关于”页注明。&lt;/li&gt;
+&lt;li&gt;您对自行创作/上传的内容保留权利，授予本应用在设备本地范围内为实现功能之必要的非排他使用许可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;七软件许可与更新&#34;&gt;七、软件许可与更新&lt;/h2&gt;
+&lt;p&gt;本应用以“按现状”和“按可用性”提供；为改进体验，可能不时发布更新或变更功能。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
