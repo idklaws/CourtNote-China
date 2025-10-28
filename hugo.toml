@@ -28,15 +28,15 @@ canonifyURLs = false
     url = "/about/"
     weight = 3
 
-[[menu.main]]
-    name = "协议"
-    url = "/terms/"
-    weight = 4
+#[[menu.main]]
+#   name = "协议"
+#  url = "/terms/"
+# weight = 4
 
 [[menu.main]]
     name = "隐私"
     url = "/privacy/"
-    weight = 5
+    weight = 4
 
 
 [params]
