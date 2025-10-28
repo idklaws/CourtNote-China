@@ -28,7 +28,10 @@ canonifyURLs = false
     url = "/about/"
     weight = 3
 
-
+[[menu.main]]
+    name = "隐私"
+    url = "/privacy/"
+    weight = 4
 
 [params]
     description = "庭记的官方网站，展示我们最新的创新产品和解决方案。" # 网站的整体描述
