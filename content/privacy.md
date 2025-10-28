@@ -1,7 +1,7 @@
 +++
 date = '2025-10-24T17:49:39+08:00'
 draft = false
-title = 'PrivacyPolicy'
+title = 'Privacy Policy'
 +++
 
 # 隐私政策

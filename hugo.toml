@@ -29,9 +29,15 @@ canonifyURLs = false
     weight = 3
 
 [[menu.main]]
+    name = "协议"
+    url = "/terms/"
+    weight = 4
+
+[[menu.main]]
     name = "隐私"
     url = "/privacy/"
-    weight = 4
+    weight = 5
+
 
 [params]
     description = "庭记的官方网站，展示我们最新的创新产品和解决方案。" # 网站的整体描述
