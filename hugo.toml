@@ -24,7 +24,7 @@ canonifyURLs = false
     weight = 2
 
 [[menu.main]]
-    name = "关于/隐私"
+    name = "关于"
     url = "/about/"
     weight = 3
 
