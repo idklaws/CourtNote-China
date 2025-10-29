@@ -13,8 +13,10 @@ If you prefer a local copy of the badge, place it under `static/` and update the
 
 {{ $url := .Get "url" | default "#" }}
 {{ $locale := .Get "locale" | default "en-us" }}
-{{ $localPath := printf "/images/appstore-%s.svg" $locale }}
+{{ $localPath := printf "images/appstore-%s.svg" $locale }}
+{{ $localURL := $localPath | relURL }}
+{{ $remote := printf "https://linkmaker.itunes.apple.com/assets/shared/badges/%s/appstore-lrg.svg" $locale }}
 <a href="{{ $url }}" target="_blank" rel="noopener noreferrer nofollow">
-  <!-- Prefer local badge; fall back to Apple's hosted badge if local file is missing. -->
-  <img src="{{ $localPath }}" alt="Download on the App Store" style="height:auto;max-width:180px;" onerror="this.onerror=null;this.src='https://linkmaker.itunes.apple.com/assets/shared/badges/{{ $locale }}/appstore-lrg.svg'">
+  <!-- Use relURL so the path respects site BaseURL/subpath; keep a remote fallback if the local file cannot be served. -->
+  <img src="{{ $localURL }}" alt="Download on the App Store" style="height:auto;max-width:180px;" onerror="this.onerror=null;this.src='{{ $remote }}'">
 </a>
