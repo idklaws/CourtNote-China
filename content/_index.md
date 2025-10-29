@@ -26,4 +26,6 @@ description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自�
 ### 系统要求
 - iOS 17 及以上
 
+- 在 App Store 上下载： [庭记 - App Store](https://apps.apple.com/us/app/%E5%BA%AD%E8%AE%B0/id6754460667)
+
 如需合作或媒体沟通：[business@courtnote.app](mailto:business@courtnote.app)
