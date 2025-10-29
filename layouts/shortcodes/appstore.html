@@ -1,0 +1,18 @@
+{{/*
+App Store badge shortcode for Hugo.
+Usage:
+  {{< appstore url="https://apps.apple.com/us/app/庭记/id6754460667" locale="en-us" >}}
+
+Parameters:
+  - url:   App Store URL (required)
+  - locale: Apple badge locale folder, e.g. "en-us", "zh-cn". Defaults to "en-us".
+
+This shortcode uses Apple's official badge image hosted at linkmaker.itunes.apple.com.
+If you prefer a local copy of the badge, place it under `static/` and update the img src accordingly.
+*/}}
+
+{{ $url := .Get "url" | default "#" }}
+{{ $locale := .Get "locale" | default "en-us" }}
+<a href="{{ $url }}" target="_blank" rel="noopener noreferrer nofollow">
+  <img src="https://linkmaker.itunes.apple.com/assets/shared/badges/{{ $locale }}/appstore-lrg.svg" alt="Download on the App Store" style="height:auto;max-width:180px;">
+</a>
