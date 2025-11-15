@@ -5,7 +5,7 @@ description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自�
 
 ## 庭记 — 法律人的日程与扫描助手
 专业扫描生成高质量 PDF，开庭日程提醒与案号自动填写，一站式提升办案效率。  
-文档本地保存，iCloud 仅同步日程，无广告与追踪。iOS 17+。
+文档本地保存，iCloud 仅同步日程，无广告与追踪。
 
 
 ### 核心要点
@@ -26,6 +26,6 @@ description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自�
 ### 系统要求
 - iOS 17 及以上
 
-{{< appstore url="https://apps.apple.com/us/app/庭记/id6754460667" locale="zh-cn" >}}
+{{< appstore url="https://apps.apple.com/cn/app/庭记/id6754460667" locale="zh-cn" >}}
 
 如需合作或媒体沟通：[business@courtnote.app](mailto:business@courtnote.app)
