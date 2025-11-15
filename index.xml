@@ -48,10 +48,10 @@ We follow the laws of Mainland China (including but not limited to the &lt;em&gt
 &lt;h3 id="核心功能一庭审日程管理"&gt;核心功能一：庭审日程管理&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;苹果日历风格的周/月视图，手动录入更顺手，重要事项按时提醒（EventKit 集成）。&lt;/p&gt;
+&lt;p&gt;苹果日历风格的月视图，手动录入更顺手，重要事项按时提醒（EventKit 集成）。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;输入案号后可自动填充法院名称、案件类型、程序阶段与年度，减少重复输入。&lt;/p&gt;
+&lt;p&gt;输入案号后可自动填充法院名称、案件类型、程序阶段、年度等信息，减少重复输入。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;可选 iCloud 同步（仅日程）：开启后在你的 iCloud/CloudKit 账户间多设备同步。&lt;/p&gt;
