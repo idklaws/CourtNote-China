@@ -1,7 +1,7 @@
 +++
 date = '2025-10-24T17:49:39+08:00'
 draft = false
-title = 'About'
+title = '关于庭记'
 +++
 
 <h3 style="font-size: 1.3em; font-weight: 600; margin-bottom: 1em;">关于庭记</h3>

@@ -1,23 +1,17 @@
 ---
-title: "庭记 — 法律人的日程与扫描助手"
-description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自动填写，一站式提升办案效率。文档本地保存，iCloud 仅同步日程，无广告与追踪。iOS 17+。"
+title: "庭记"
+description: "专为法律人打造的日程管理与文档扫描工具，让办案更高效、更专业。"
 ---
 
-<div style="text-align: center; margin-bottom: 2em;">
-
-<h3 style="font-size: 1.3em; font-weight: 600; margin-bottom: 0.5em;">欢迎使用庭记</h3>
-
-<p style="font-size: 1em; color: #555;">专为法律人打造的日程管理与文档扫描工具，让办案更高效、更专业。</p>
-
-</div>
+专为法律人打造的日程管理与文档扫描工具，让办案更高效、更专业。
 
 ---
 
-<h3 style="font-size: 1.2em; font-weight: 600; margin-bottom: 1.5em;">核心功能</h3>
+### 核心功能
 
 **专业文档扫描**
 
-生成扫描仪级别的高质量 PDF，自动边界检测、透视校正和角落去阴影处理。提供原色、智能增强和黑白文档三种扫描模式，满足不同场景需求。
+生成高质量 PDF，自动边界检测、透视校正和角落去阴影处理。提供原色、智能增强和黑白文档三种扫描模式，满足不同场景需求。
 
 **智能日程管理**
 
@@ -29,7 +23,7 @@ description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自�
 
 ---
 
-<h3 style="font-size: 1.2em; font-weight: 600; margin-bottom: 1em;">使用门槛</h3>
+### 使用门槛
 
 - **系统要求**：iOS 17 及以上
 - **免费额度**：每月 15 次无水印分享
@@ -37,7 +31,7 @@ description: "专业扫描生成高质量 PDF，开庭日程提醒与案号自�
 
 ---
 
-<h3 style="font-size: 1.2em; font-weight: 600; margin-bottom: 1em;">立即下载</h3>
+### 立即下载
 
 {{< appstore url="https://apps.apple.com/cn/app/庭记/id6754460667" locale="zh-cn" >}}
 

@@ -1,7 +1,7 @@
 +++
 date = '2025-10-24T17:49:39+08:00'
 draft = false
-title = 'Privacy Policy'
+title = '隐私政策'
 +++
 
 <div style="text-align: center; margin-bottom: 2em;">
