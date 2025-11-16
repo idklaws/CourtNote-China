@@ -36,23 +36,33 @@
     margin-bottom: 0.5rem;
 }
 
-/* 确保正文字体大小 */
+/* 确保正文字体大小和颜色 */
 .post-content p {
     font-size: 1rem;
     line-height: 1.8;
     margin-bottom: 1rem;
+    color: var(--content) !important;
+    text-align: left !important;
 }
 
-/* 版本信息样式 - 第一段加粗文字 */
+/* 首页描述文字样式 - 左对齐，正常颜色 */
+.home-info .entry-content {
+    text-align: left !important;
+    color: var(--content) !important;
+}
+
+.home-info p {
+    text-align: left !important;
+    color: var(--content) !important;
+}
+
+/* 版本信息样式 - 斜体，左对齐，小字号 */
+.post-content > p:first-of-type em,
 .post-content > p:first-of-type {
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     color: #666;
-    text-align: center;
-    margin-bottom: 1.5rem;
-}
-
-.post-content > p:first-of-type strong {
-    font-weight: 500;
+    text-align: left !important;
+    font-style: italic;
 }
 
 /* 列表样式优化 */

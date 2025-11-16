@@ -4,8 +4,8 @@ draft = false
 title = '隐私政策'
 +++
 
-**版本：1.0 | 生效日期：2025-10-20**  
-**Version: 1.0 | Effective Date: 2025-10-20**
+*版本：1.0 | 生效日期：2025-10-20*  
+*Version: 1.0 | Effective Date: 2025-10-20*
 
 ---
 
