@@ -3,10 +3,15 @@ languageCode = 'zh-cn'
 title = '庭记'
 theme = 'hugo-PaperMod'
 
-
 # 推荐添加的配置
 relativeURLs = false
 canonifyURLs = false
+
+# 允许原始 HTML（如果需要）
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # 其他基本信息
  copyright = "© 2025 庭记. All Rights Reserved."

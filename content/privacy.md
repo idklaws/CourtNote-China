@@ -1,10 +1,11 @@
 +++
 date = '2025-10-24T17:49:39+08:00'
 draft = false
-title = '隐私政策 Privacy Policy'
+title = '隐私政策'
 +++
 
-<p style="text-align: center; font-size: 0.9em; color: #666; margin-bottom: 2em;">版本：1.0 | 生效日期：2025-10-20<br>Version: 1.0 | Effective Date: 2025-10-20</p>
+**版本：1.0 | 生效日期：2025-10-20**  
+**Version: 1.0 | Effective Date: 2025-10-20**
 
 ---
 

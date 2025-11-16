@@ -1,138 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>庭记 — 法律人的日程与扫描助手 on 庭记</title>
+    <title>庭记</title>
     <link>https://idklaws.github.io/CourtNote-China/</link>
-    <description>Recent content in 庭记 — 法律人的日程与扫描助手 on 庭记</description>
+    <description>Recent content on 庭记</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <copyright>2025 庭记. All Rights Reserved.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:49:39 +0800</lastBuildDate>
     <atom:link href="https://idklaws.github.io/CourtNote-China/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>关于庭记</title>
       <link>https://idklaws.github.io/CourtNote-China/about/</link>
       <pubDate>Fri, 24 Oct 2025 17:49:39 +0800</pubDate>
       <guid>https://idklaws.github.io/CourtNote-China/about/</guid>
-      <description>&lt;h2 id=&#34;关于庭记courtnote&#34;&gt;关于庭记（CourtNote）&lt;/h2&gt;
-&lt;p&gt;庭记是一款为律师、法务等法律从业人员打造的专业工具，集庭审日程管理与文档扫描于一体。通过 AI 边界检测、透视校正与阴影处理，快速生成高质量 PDF；配合苹果日历风格的日程提醒与“案号自动填写”，显著提升办案效率。&lt;/p&gt;
+      <description>&lt;p&gt;庭记（CourtNote）是一款为律师、法务等法律从业人员打造的专业工具，集庭审日程管理与文档扫描于一体。&lt;/p&gt;
+&lt;p&gt;我们深知法律工作者在办案过程中的痛点：海量纸质材料需要扫描归档，开庭日程繁多容易遗漏，案号信息重复录入耗时费力。庭记致力于通过技术手段解决这些问题，让您专注于更有价值的法律工作。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;隐私与数据存储&#34;&gt;隐私与数据存储&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;本地优先：文档与案件数据默认仅保存在你的设备，不上传至任何自有服务器&lt;/li&gt;
-&lt;li&gt;iCloud 同步（可选）：仅日程数据会在你开启后，通过 Apple 的 iCloud/CloudKit 在你的设备间同步，存储与传输遵循你 iCloud 账户所在区域的规则&lt;/li&gt;
-&lt;li&gt;无追踪：无广告，不含第三方追踪 SDK，不进行跨 App 跟踪，不收集设备标识符&lt;/li&gt;
-&lt;li&gt;权限最小化：相机/相册/日历权限仅用于完成相应功能，且可随时在系统设置中关闭&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 style=&#34;font-size: 1.2em; font-weight: 600; margin-bottom: 1.5em;&#34;&gt;核心特性&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;专业扫描技术&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;采用 AI 边界检测、透视校正与角落去阴影处理技术，快速生成扫描仪级别的高质量 PDF。支持原色、智能增强和黑白文档三种扫描模式，并可开启 OCR 生成可搜索 PDF，便于后续检索。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;智能日程管理&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;苹果日历风格的月视图设计，符合您的使用习惯。开庭提醒功能确保不会错过任何重要庭审。案号输入时自动填充法院名称、案件类型、程序阶段等信息，显著提升录入效率。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;隐私与数据安全&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文档与案件数据默认仅保存在本地设备，我们不运营任何自有服务器。iCloud 同步仅用于日程数据且完全可选。应用无广告，不含第三方追踪 SDK，不进行跨 App 跟踪，不收集设备标识符。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;会员与水印策略&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;免费用户每月享有 15 次无水印分享额度。超额后仅在分享副本的右下角添加浅灰色注解水印，应用内预览与原文件始终无水印，且多数打印驱动会自动忽略注解层。会员用户享有无限次无水印分享。&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;会员与水印策略&#34;&gt;会员与水印策略&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;免费用户：每月 15 次无水印分享额度&lt;/li&gt;
-&lt;li&gt;超额时：仅在“分享导出”的临时副本右下角添加浅灰注解水印“庭记 · CourtNote”；应用内预览与原文件始终无水印。多数打印驱动会忽略注解层，打印输出通常无水印&lt;/li&gt;
-&lt;li&gt;会员用户：无水印分享不设上限&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 style=&#34;font-size: 1.2em; font-weight: 600; margin-bottom: 1em;&#34;&gt;系统要求&lt;/h3&gt;
+&lt;p&gt;iOS 17 及以上&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;权限用途&#34;&gt;权限用途&lt;/h2&gt;
+&lt;h3 style=&#34;font-size: 1.2em; font-weight: 600; margin-bottom: 1em;&#34;&gt;联系我们&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;相机（Camera）：用于拍摄纸质材料、生成文档&lt;/li&gt;
-&lt;li&gt;照片（Photo Library）：用于从相册导入图片生成 PDF&lt;/li&gt;
-&lt;li&gt;日历（Calendars）：用于创建/编辑提醒与日程事件&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;系统要求&#34;&gt;系统要求&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;iOS 17 及以上&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;联系我们&#34;&gt;联系我们&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;技术支持：support@courtnote.app&lt;/li&gt;
-&lt;li&gt;商务合作：business@courtnote.app&lt;/li&gt;
-&lt;li&gt;建议反馈：contact@courtnote.app&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术支持&lt;/strong&gt;：&lt;a href=&#34;mailto:support@courtnote.app&#34;&gt;support@courtnote.app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;商务合作&lt;/strong&gt;：&lt;a href=&#34;mailto:business@courtnote.app&#34;&gt;business@courtnote.app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;建议反馈&lt;/strong&gt;：&lt;a href=&#34;mailto:contact@courtnote.app&#34;&gt;contact@courtnote.app&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Privacy Policy</title>
+      <title>服务条款</title>
+      <link>https://idklaws.github.io/CourtNote-China/terms/</link>
+      <pubDate>Fri, 24 Oct 2025 17:49:39 +0800</pubDate>
+      <guid>https://idklaws.github.io/CourtNote-China/terms/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;版本：1.0 | 生效日期：2025-10-20&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Version: 1.0 | Effective Date: 2025-10-20&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;欢迎使用 &lt;strong&gt;庭记（CourtNote）&lt;/strong&gt;（以下简称&amp;quot;本应用&amp;quot;）。在使用本应用前，请仔细阅读并同意本《用户协议》。如您不同意本协议任一条款，请停止使用。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;一适用范围&#34;&gt;一、适用范围&lt;/h3&gt;
+&lt;p&gt;本协议适用于 庭记（CourtNote）iOS 客户端。适用法律为中华人民共和国法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时参考 GDPR 要求。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;二功能与权限说明&#34;&gt;二、功能与权限说明&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;1. 功能范围：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;文档拍摄与校正、PDF 生成、案件管理、日程管理、本地存储；可选 iCloud 同步&amp;quot;仅用于日程&amp;quot;（文档不同步）。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 权限用途：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;相机：&lt;/strong&gt; 用于拍摄文档影像&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;相册读取/写入：&lt;/strong&gt; 用于从相册选取或在您选择时保存生成的图片/文档&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日历：&lt;/strong&gt; 在您授权后，用于读取/写入开庭与出差等日程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. 数据同步：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;当前版本仅支持&amp;quot;日程数据&amp;quot;在您主动开启后通过 Apple iCloud/CloudKit 在设备间同步；&amp;ldquo;文档（扫描图片、PDF）与案件信息&amp;quot;默认仅保存在本地，不经由 iCloud/第三方服务器自动同步。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;三账户与同步&#34;&gt;三、账户与同步&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;本应用不提供独立注册账号。iCloud 同步依赖您的 Apple ID 与 Apple CloudKit，您可随时在设置中关闭。&lt;/li&gt;
+&lt;li&gt;关闭 iCloud 后，新的日程将不再写入云端；既有 iCloud 数据的保留与删除以 Apple 服务规则为准。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;四会员与水印策略&#34;&gt;四、会员与水印策略&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;会员与订阅：&lt;/strong&gt; 提供月度/年度/终身等方案，通过 Apple App Store 结算与管理；可在&amp;quot;系统设置 - Apple ID - 订阅&amp;quot;中管理及取消自动续订。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;水印策略：&lt;/strong&gt; 免费用户每月在超额阈值后，分享导出的 PDF 会添加右下角轻量文字水印（注解层，打印常不显示）；会员用户与额度内分享不加水印。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;五用户内容与合规使用&#34;&gt;五、用户内容与合规使用&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;您在本应用中创建/导入的文档、案件、日程等内容的权利归您或相应权利人所有。&lt;/li&gt;
+&lt;li&gt;您承诺不利用本应用从事违法违规、侵权或破坏安全机制的行为。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;六知识产权&#34;&gt;六、知识产权&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;本应用之软件及界面等由开发者依法享有相应权利；开源组件（如 OpenCV，Apache-2.0）依其许可使用并在&amp;quot;关于&amp;quot;页注明。&lt;/li&gt;
+&lt;li&gt;您对自行创作/上传的内容保留权利，授予本应用在设备本地范围内为实现功能之必要的非排他使用许可。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;七软件许可与更新&#34;&gt;七、软件许可与更新&lt;/h3&gt;
+&lt;p&gt;本应用以&amp;quot;按现状&amp;quot;和&amp;quot;按可用性&amp;quot;提供；为改进体验，可能不时发布更新或变更功能。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>隐私政策</title>
       <link>https://idklaws.github.io/CourtNote-China/privacy/</link>
       <pubDate>Fri, 24 Oct 2025 17:49:39 +0800</pubDate>
       <guid>https://idklaws.github.io/CourtNote-China/privacy/</guid>
-      <description>&lt;h1 id=&#34;隐私政策--privacy-policy&#34;&gt;隐私政策 / Privacy Policy&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;版本：1.0&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;生效日期：2025-10-20&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;Version: 1.0 Effective Date: 2025-10-20&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;版本：1.0 | 生效日期：2025-10-20&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;Version: 1.0 | Effective Date: 2025-10-20&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;引言--introduction&#34;&gt;引言 / Introduction&lt;/h2&gt;
-&lt;p&gt;庭记（CourtNote）非常重视用户隐私与数据安全。本政策适用于您在 iOS 客户端使用 庭记（CourtNote） 的全部功能。&lt;br&gt;
-我们遵循中国大陆法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时兼顾 GDPR 要求。&lt;/p&gt;
-&lt;p&gt;CourtNote attaches great importance to user privacy and data security.&lt;br&gt;
-This policy applies to your use of all features of the CourtNote iOS client.&lt;br&gt;
-We follow the laws of Mainland China (including but not limited to the &lt;em&gt;Personal Information Protection Law&lt;/em&gt;, the &lt;em&gt;Data Security Law&lt;/em&gt;, and the &lt;em&gt;Cybersecurity Law&lt;/em&gt;), and make reference to GDPR requirements where necessary.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://idklaws.github.io/CourtNote-China/courtnote/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://idklaws.github.io/CourtNote-China/courtnote/</guid>
-      <description>&lt;h2 id=&#34;关于庭记&#34;&gt;关于庭记&lt;/h2&gt;
-&lt;p&gt;庭记（CourtNote）是一款为律师、法务等法律从业人员打造的专业工具，集庭审日程管理与文档扫描成一体，帮助你高效安排工作、生成高质量 PDF。&lt;/p&gt;
-&lt;h3 id=&#34;核心功能一庭审日程管理&#34;&gt;核心功能一：庭审日程管理&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;苹果日历风格的周/月视图，手动录入更顺手，重要事项按时提醒（EventKit 集成）。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;输入案号后可自动填充法院名称、案件类型、程序阶段与年度，减少重复输入。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可选 iCloud 同步（仅日程）：开启后在你的 iCloud/CloudKit 账户间多设备同步。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;规划中：支持通过拍照/语音识别自动提取时间、地点等要素并添加到日程。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;核心功能二拍摄笔录转为-pdf&#34;&gt;核心功能二：拍摄笔录转为 PDF&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;直接拍摄或选取图片，自动检测边界与透视校正，智能去除角落阴影；提供原色、智能增强、黑白文档三种模式。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;生成高分辨率 PDF，并可开启 OCR 生成“可搜索 PDF”便于检索。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;会员与水印策略：&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;免费用户：每月 15 次无水印分享额度。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;超出额度：仅在“分享导出”的临时副本右下角添加浅灰注解水印；应用内预览与原文件始终无水印。多数打印驱动会忽略注解层，打印输出通常无水印。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;升级会员：无水印分享不设上限。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;隐私与合规&#34;&gt;隐私与合规&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;文档与案件数据默认仅保存在本地设备；我们不运营自有服务器。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;iCloud 同步仅用于日程数据，按照你 iCloud 账户所在区域由 Apple 存储与传输。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;无广告；不含第三方追踪 SDK；不进行跨 App 跟踪；不收集设备标识符；未使用 Required Reason APIs。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;平台与版本&#34;&gt;平台与版本&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;当前支持 iOS 17+；iOS 版本已上架中国大陆地区App Store。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;中期规划将覆盖 iOS、macOS 与 Web，为你提供跨设备的无缝体验。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如有任何产品意见或建议，欢迎通过邮件联系：support@courtnote.app 或 &lt;a href=&#34;mailto:business@courtnote.app&#34;&gt;business@courtnote.app&lt;/a&gt;；也可写信至 &lt;a href=&#34;mailto:contact@courtnote.app&#34;&gt;contact@courtnote.app&lt;/a&gt;。&lt;/p&gt;</description>
+&lt;h3 id=&#34;引言--introduction&#34;&gt;引言 / Introduction&lt;/h3&gt;
+&lt;p&gt;庭记（CourtNote）非常重视用户隐私与数据安全。本政策适用于您在 iOS 客户端使用 庭记（CourtNote） 的全部功能。我们遵循中国大陆法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时兼顾 GDPR 要求。&lt;/p&gt;
+&lt;p&gt;CourtNote attaches great importance to user privacy and data security. This policy applies to your use of all features of the CourtNote iOS client. We follow the laws of Mainland China (including but not limited to the &lt;em&gt;Personal Information Protection Law&lt;/em&gt;, the &lt;em&gt;Data Security Law&lt;/em&gt;, and the &lt;em&gt;Cybersecurity Law&lt;/em&gt;), and make reference to GDPR requirements where necessary.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,13 @@
 +++
 date = '2025-10-24T17:49:39+08:00'
 draft = false
-title = '服务条款 Terms of Service'
+title = '服务条款'
 +++
 
-<p style="text-align: center; font-size: 0.9em; color: #666; margin-bottom: 2em;">版本：1.0 | 生效日期：2025-10-20<br>Version: 1.0 | Effective Date: 2025-10-20</p>
+**版本：1.0 | 生效日期：2025-10-20**  
+**Version: 1.0 | Effective Date: 2025-10-20**
+
+---
 
 欢迎使用 **庭记（CourtNote）**（以下简称"本应用"）。在使用本应用前，请仔细阅读并同意本《用户协议》。如您不同意本协议任一条款，请停止使用。
 
