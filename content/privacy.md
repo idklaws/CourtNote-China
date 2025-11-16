@@ -6,16 +6,15 @@ title = 'Privacy Policy'
 
 <div style="text-align: center; margin-bottom: 2em;">
 
-# 隐私政策 / Privacy Policy
+<h2 style="font-size: 1.5em; font-weight: 600;">隐私政策 / Privacy Policy</h2>
 
-**版本：1.0 | 生效日期：2025-10-20**  
-**Version: 1.0 | Effective Date: 2025-10-20**
+<p style="font-size: 0.9em; color: #666;">版本：1.0 | 生效日期：2025-10-20<br>Version: 1.0 | Effective Date: 2025-10-20</p>
 
 </div>
 
 ---
 
-## 引言 / Introduction
+### 引言 / Introduction
 
 庭记（CourtNote）非常重视用户隐私与数据安全。本政策适用于您在 iOS 客户端使用 庭记（CourtNote） 的全部功能。我们遵循中国大陆法律（包括但不限于《个人信息保护法》《数据安全法》《网络安全法》），并在需要时兼顾 GDPR 要求。
 
@@ -23,7 +22,7 @@ CourtNote attaches great importance to user privacy and data security. This poli
 
 ---
 
-## 一、我们处理的数据类型 / I. Types of Data We Process
+### 一、我们处理的数据类型 / I. Types of Data We Process
 
 **1. 文档与图片（本地）**
 
@@ -57,7 +56,7 @@ Case information, schedules, and preferences are stored locally by default. When
 
 ---
 
-## 二、处理目的与法律依据 / II. Purposes and Legal Bases
+### 二、处理目的与法律依据 / II. Purposes and Legal Bases
 
 **1. 目的 / Purposes**
 
@@ -73,7 +72,7 @@ Your consent (e.g., enabling iCloud or granting permissions), performance of our
 
 ---
 
-## 三、数据存储与期限 / III. Storage and Retention
+### 三、数据存储与期限 / III. Storage and Retention
 
 **1. 本地存储 / Local Storage**
 
@@ -95,7 +94,7 @@ Data is retained as long as it exists on your device. You can delete documents, 
 
 ---
 
-## 四、共享与第三方 / IV. Sharing and Third Parties
+### 四、共享与第三方 / IV. Sharing and Third Parties
 
 1. 我们不向第三方出售、出租或共享您的个人信息或文档。
 
@@ -111,7 +110,7 @@ Data is retained as long as it exists on your device. You can delete documents, 
 
 ---
 
-## 五、跨境传输 / V. Cross-Border Transfers
+### 五、跨境传输 / V. Cross-Border Transfers
 
 1. 本应用不自建服务器、不主动跨境传输您的数据。
 
@@ -123,7 +122,7 @@ Data is retained as long as it exists on your device. You can delete documents, 
 
 ---
 
-## 六、您的权利 / VI. Your Rights
+### 六、您的权利 / VI. Your Rights
 
 1. **访问与复制 / Access & Copy**：您可在应用内查看与导出文档 / PDF。
 
@@ -143,7 +142,7 @@ Data is retained as long as it exists on your device. You can delete documents, 
 
 ---
 
-## 七、未成年人保护 / VII. Protection of Minors
+### 七、未成年人保护 / VII. Protection of Minors
 
 本应用面向成年用户，不以未成年人为主要对象。如为不满 14 周岁之未成年人使用，请在监护人同意与指导下进行。
 
@@ -151,7 +150,7 @@ The App is intended for adults and not primarily for minors. If you are under 14
 
 ---
 
-## 八、安全措施 / VIII. Security Measures
+### 八、安全措施 / VIII. Security Measures
 
 依赖 iOS 沙盒、安全加密与 Apple 提供的系统安全机制；建议您为设备设置强口令与生物识别，并妥善保管 iCloud 账号。
 
@@ -159,7 +158,7 @@ We rely on the iOS sandbox, encryption, and Apple's system security mechanisms. 
 
 ---
 
-## 九、政策更新 / IX. Updates to This Policy
+### 九、政策更新 / IX. Updates to This Policy
 
 我们可能因业务或法律变化更新本政策。重大变更将通过应用内"关于"页或 App Store 页面提示。
 
@@ -167,7 +166,7 @@ We may update this policy due to business or legal changes. Material updates wil
 
 ---
 
-## 十、联系我们 / X. Contact Us
+### 十、联系我们 / X. Contact Us
 
 您可通过 App Store 开发者联系渠道与我们沟通并行使相关权利。
 
