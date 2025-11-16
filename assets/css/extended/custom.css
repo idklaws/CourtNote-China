@@ -54,14 +54,17 @@
 .home-info p {
     text-align: left !important;
     color: var(--content) !important;
+    font-style: normal !important;
 }
 
-/* 版本信息样式 - 斜体，左对齐，小字号 */
-.post-content > p:first-of-type em,
-.post-content > p:first-of-type {
+/* 版本信息样式 - 仅针对包含斜体的段落 */
+.post-content > p:first-of-type:has(em) {
     font-size: 0.9rem;
     color: #666;
     text-align: left !important;
+}
+
+.post-content > p:first-of-type em {
     font-style: italic;
 }
 
@@ -73,5 +76,6 @@
 
 .post-content li {
     margin-bottom: 0.5rem;
+    font-size: 1rem;
 }
 

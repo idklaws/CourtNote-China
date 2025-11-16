@@ -36,6 +36,6 @@ iOS 17 及以上
 
 ### 联系我们
 
-- **技术支持**：[support@courtnote.app](mailto:support@courtnote.app)
-- **商务合作**：[business@courtnote.app](mailto:business@courtnote.app)
-- **建议反馈**：[contact@courtnote.app](mailto:contact@courtnote.app)
+技术支持：support@courtnote.app  
+商务合作：business@courtnote.app  
+建议反馈：contact@courtnote.app
