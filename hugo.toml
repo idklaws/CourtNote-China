@@ -19,23 +19,18 @@ canonifyURLs = false
     weight = 1
 
 [[menu.main]]
-    name = "简介"
-    url = "/courtnote/" # 对应你创建的目录
+    name = "关于"
+    url = "/about/"
     weight = 2
 
 [[menu.main]]
-    name = "关于"
-    url = "/about/"
+    name = "隐私政策"
+    url = "/privacy/"
     weight = 3
 
-#[[menu.main]]
-#   name = "协议"
-#  url = "/terms/"
-# weight = 4
-
 [[menu.main]]
-    name = "隐私"
-    url = "/privacy/"
+    name = "服务条款"
+    url = "/terms/"
     weight = 4
 
 
